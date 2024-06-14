@@ -10,35 +10,35 @@
                             <a href="https://www.linkedin.com/in/dharmendra-kumar-a588a4119/">By Dharam</a>
                         </div>
                         <div class="background">
-                            <img ref="backgroundImg" src="../../public/assets/alpaca/backgrounds/blue50.png" alt="">
+                            <img ref="backgroundImg" src="/assets/alpaca/backgrounds/blue50.png" alt="">
                         </div>
                         <div class="ears">
-                            <img ref="ears" src="../../public/assets/alpaca/ears/default.png" alt="">
+                            <img ref="ears" src="/assets/alpaca/ears/default.png" alt="">
                         </div>
 
                         <div class="hair">
-                            <img ref="hair" src="../../public/assets/alpaca/hair/default.png" alt="">
+                            <img ref="hair" src="/assets/alpaca/hair/default.png" alt="">
                         </div>
                         <div class="eyes">
-                            <img ref="eyes" src="../../public/assets/alpaca/eyes/default.png" alt="">
+                            <img ref="eyes" src="/assets/alpaca/eyes/default.png" alt="">
                         </div>
                         <div class="leg">
-                            <img ref="leg" src="../../public/assets/alpaca/leg/default.png" alt="">
+                            <img ref="leg" src="/assets/alpaca/leg/default.png" alt="">
                         </div>
                         <div class="neck">
-                            <img ref="neck" src="../../public/assets/alpaca/neck/default.png" alt="">
+                            <img ref="neck" src="/assets/alpaca/neck/default.png" alt="">
                         </div>
                         <div class="nose">
-                            <img ref="nose" src="../../public/assets/alpaca/nose.png" alt="">
+                            <img ref="nose" src="/assets/alpaca/nose.png" alt="">
                         </div>
                         <div class="mouth">
-                            <img ref="mouth" src="../../public/assets/alpaca/mouth/default.png" alt="">
+                            <img ref="mouth" src="/assets/alpaca/mouth/default.png" alt="">
                         </div>
                         <div class="eyes">
-                            <img ref="eyes" src="../../public/assets/alpaca/eyes/default.png" alt="">
+                            <img ref="eyes" src="/assets/alpaca/eyes/default.png" alt="">
                         </div>
                         <div class="accessories">
-                            <img ref="accessories" src="../../public/assets/alpaca/accessories/headphone.png" alt="">
+                            <img ref="accessories" src="/assets/alpaca/accessories/headphone.png" alt="">
                         </div>
 
                     </div>
@@ -84,19 +84,19 @@ export default {
                 itemList: [
                     {
                         name: "default",
-                        src: "../../public/assets/alpaca/accessories/headphone.png"
+                        src: "/assets/alpaca/accessories/headphone.png"
                     },
                     {
                         name: "earings",
-                        src: "../../public/assets/alpaca/accessories/earings.png"
+                        src: "/assets/alpaca/accessories/earings.png"
                     },
                     {
                         name: "flower",
-                        src: "../../public/assets/alpaca/accessories/flower.png"
+                        src: "/assets/alpaca/accessories/flower.png"
                     },
                     {
                         name: "glasses",
-                        src: "../../public/assets/alpaca/accessories//glasses.png"
+                        src: "/assets/alpaca/accessories//glasses.png"
                     },
 
                 ]
@@ -106,76 +106,76 @@ export default {
                 itemList: [
                     {
                         name: "default",
-                        src: "../../public/assets/alpaca/backgrounds/blue50.png"
+                        src: "/assets/alpaca/backgrounds/blue50.png"
                     },
                     {
                         name: "blue60",
-                        src: "../../public/assets/alpaca/backgrounds/blue60.png"
+                        src: "/assets/alpaca/backgrounds/blue60.png"
                     },
                     {
                         name: "blue70",
-                        src: "../../public/assets/alpaca/backgrounds/blue70.png"
+                        src: "/assets/alpaca/backgrounds/blue70.png"
                     },
                     {
                         name: "darkblue30",
-                        src: "../../public/assets/alpaca/backgrounds/darkblue30.png"
+                        src: "/assets/alpaca/backgrounds/darkblue30.png"
                     },
                     {
                         name: "darkblue50",
-                        src: "../../public/assets/alpaca/backgrounds/darkblue50.png"
+                        src: "/assets/alpaca/backgrounds/darkblue50.png"
                     },
                     {
                         name: "darkblue70",
-                        src: "../../public/assets/alpaca/backgrounds/darkblue70.png"
+                        src: "/assets/alpaca/backgrounds/darkblue70.png"
                     },
                     {
                         name: "green50",
-                        src: "../../public/assets/alpaca/backgrounds/green50.png"
+                        src: "/assets/alpaca/backgrounds/green50.png"
                     },
                     {
                         name: "green60",
-                        src: "../../public/assets/alpaca/backgrounds/green60.png"
+                        src: "/assets/alpaca/backgrounds/green60.png"
                     },
                     {
                         name: "green70",
-                        src: "../../public/assets/alpaca/backgrounds/green70.png"
+                        src: "/assets/alpaca/backgrounds/green70.png"
                     },
                     {
                         name: "grey40",
-                        src: "../../public/assets/alpaca/backgrounds/grey40.png"
+                        src: "/assets/alpaca/backgrounds/grey40.png"
                     },
                     {
                         name: "grey70",
-                        src: "../../public/assets/alpaca/backgrounds/grey70.png"
+                        src: "/assets/alpaca/backgrounds/grey70.png"
                     },
                     {
                         name: "grey80",
-                        src: "../../public/assets/alpaca/backgrounds/grey80.png"
+                        src: "/assets/alpaca/backgrounds/grey80.png"
                     },
 
                     {
                         name: "red50",
-                        src: "../../public/assets/alpaca/backgrounds/red50.png"
+                        src: "/assets/alpaca/backgrounds/red50.png"
                     },
                     {
                         name: "red60",
-                        src: "../../public/assets/alpaca/backgrounds/red60.png"
+                        src: "/assets/alpaca/backgrounds/red60.png"
                     },
                     {
                         name: "red70",
-                        src: "../../public/assets/alpaca/backgrounds/red70.png"
+                        src: "/assets/alpaca/backgrounds/red70.png"
                     },
                     {
                         name: "yellow50",
-                        src: "../../public/assets/alpaca/backgrounds/yellow50.png"
+                        src: "/assets/alpaca/backgrounds/yellow50.png"
                     },
                     {
                         name: "yellow60",
-                        src: "../../public/assets/alpaca/backgrounds/yellow60.png"
+                        src: "/assets/alpaca/backgrounds/yellow60.png"
                     },
                     {
                         name: "yellow70",
-                        src: "../../public/assets/alpaca/backgrounds/yellow70.png"
+                        src: "/assets/alpaca/backgrounds/yellow70.png"
                     },
 
 
@@ -186,15 +186,15 @@ export default {
                 itemList: [
                     {
                         name: "default",
-                        src: "../../public/assets/alpaca/ears/default.png"
+                        src: "/assets/alpaca/ears/default.png"
                     },
                     {
                         name: "tilt-backward",
-                        src: "../../public/assets/alpaca/ears/tilt-backward.png"
+                        src: "/assets/alpaca/ears/tilt-backward.png"
                     },
                     {
                         name: "tilt-forward",
-                        src: "../../public/assets/alpaca/ears/tilt-forward.png"
+                        src: "/assets/alpaca/ears/tilt-forward.png"
                     },
                 ]
             },
@@ -203,27 +203,27 @@ export default {
                 itemList: [
                     {
                         name: "default",
-                        src: "../../public/assets/alpaca/eyes/default.png"
+                        src: "/assets/alpaca/eyes/default.png"
                     },
                     {
                         name: "angry",
-                        src: "../../public/assets/alpaca/eyes/angry.png"
+                        src: "/assets/alpaca/eyes/angry.png"
                     },
                     {
                         name: "naughty",
-                        src: "../../public/assets/alpaca/eyes/naughty.png"
+                        src: "/assets/alpaca/eyes/naughty.png"
                     },
                     {
                         name: "panda",
-                        src: "../../public/assets/alpaca/eyes/panda.png"
+                        src: "/assets/alpaca/eyes/panda.png"
                     },
                     {
                         name: "smart",
-                        src: "../../public/assets/alpaca/eyes/smart.png"
+                        src: "/assets/alpaca/eyes/smart.png"
                     },
                     {
                         name: "star",
-                        src: "../../public/assets/alpaca/eyes/star.png"
+                        src: "/assets/alpaca/eyes/star.png"
                     },
                 ]
             },
@@ -232,31 +232,31 @@ export default {
                 itemList: [
                     {
                         name: "default",
-                        src: "../../public/assets/alpaca/hair/default.png"
+                        src: "/assets/alpaca/hair/default.png"
                     },
                     {
                         name: "bang",
-                        src: "../../public/assets/alpaca/hair/bang.png"
+                        src: "/assets/alpaca/hair/bang.png"
                     },
                     {
                         name: "curls",
-                        src: "../../public/assets/alpaca/hair/curls.png"
+                        src: "/assets/alpaca/hair/curls.png"
                     },
                     {
                         name: "elegant",
-                        src: "../../public/assets/alpaca/hair/elegant.png"
+                        src: "/assets/alpaca/hair/elegant.png"
                     },
                     {
                         name: "fancy",
-                        src: "../../public/assets/alpaca/hair/fancy.png"
+                        src: "/assets/alpaca/hair/fancy.png"
                     },
                     {
                         name: "quiff",
-                        src: "../../public/assets/alpaca/hair/quiff.png"
+                        src: "/assets/alpaca/hair/quiff.png"
                     },
                     {
                         name: "short",
-                        src: "../../public/assets/alpaca/hair/short.png"
+                        src: "/assets/alpaca/hair/short.png"
                     },
 
                 ]
@@ -266,27 +266,27 @@ export default {
                 itemList: [
                     {
                         name: "default",
-                        src: "../../public/assets/alpaca/leg/default.png"
+                        src: "/assets/alpaca/leg/default.png"
                     },
                     {
                         name: "bubble-tea",
-                        src: "../../public/assets/alpaca/leg/bubble-tea.png"
+                        src: "/assets/alpaca/leg/bubble-tea.png"
                     },
                     {
                         name: "cookie",
-                        src: "../../public/assets/alpaca/leg/cookie.png"
+                        src: "/assets/alpaca/leg/cookie.png"
                     },
                     {
                         name: "game-console",
-                        src: "../../public/assets/alpaca/leg/game-console.png"
+                        src: "/assets/alpaca/leg/game-console.png"
                     },
                     {
                         name: "tilt-backward",
-                        src: "../../public/assets/alpaca/leg/tilt-backward.png"
+                        src: "/assets/alpaca/leg/tilt-backward.png"
                     },
                     {
                         name: "tilt-forward",
-                        src: "../../public/assets/alpaca/leg/tilt-forward.png"
+                        src: "/assets/alpaca/leg/tilt-forward.png"
                     },
 
 
@@ -297,23 +297,23 @@ export default {
                 itemList: [
                     {
                         name: "default",
-                        src: "../../public/assets/alpaca/mouth/default.png"
+                        src: "/assets/alpaca/mouth/default.png"
                     },
                     {
                         name: "astonished",
-                        src: "../../public/assets/alpaca/mouth/astonished.png"
+                        src: "/assets/alpaca/mouth/astonished.png"
                     },
                     {
                         name: "eating",
-                        src: "../../public/assets/alpaca/mouth/eating.png"
+                        src: "/assets/alpaca/mouth/eating.png"
                     },
                     {
                         name: "laugh",
-                        src: "../../public/assets/alpaca/mouth/laugh.png"
+                        src: "/assets/alpaca/mouth/laugh.png"
                     },
                     {
                         name: "tongue",
-                        src: "../../public/assets/alpaca/mouth/tongue.png"
+                        src: "/assets/alpaca/mouth/tongue.png"
                     },
 
                 ]
@@ -323,19 +323,19 @@ export default {
                 itemList: [
                     {
                         name: "default",
-                        src: "../../public/assets/alpaca/neck/default.png"
+                        src: "/assets/alpaca/neck/default.png"
                     },
                     {
                         name: "bend-backward",
-                        src: "../../public/assets/alpaca/neck/bend-backward.png"
+                        src: "/assets/alpaca/neck/bend-backward.png"
                     },
                     {
                         name: "bend-forward",
-                        src: "../../public/assets/alpaca/neck/bend-forward.png"
+                        src: "/assets/alpaca/neck/bend-forward.png"
                     },
                     {
                         name: "thick",
-                        src: "../../public/assets/alpaca/neck/thick.png"
+                        src: "/assets/alpaca/neck/thick.png"
                     },
                 ]
             },
